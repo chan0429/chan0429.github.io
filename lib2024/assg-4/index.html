@@ -9,13 +9,21 @@
     <div class="logo">Logo</div> 
   <head>Title Of Page</head>
   <title>CSS box model</title>
-.sub-head {
-  font-weight: 100;
-  padding: 10;
-  margin: 20px
-  background-color: green(255,0,0,0.5);
-  border: 2px solid blue;
-}
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    .clearfix {
+      overflow; auto;
+    }
+    .clearfix:after{
+      content: "";
+      clear: both;
+      display: table;
+    }
+    div.container {
+      background: green;
+    }
       <nav class="main-nav-container desktop-nav">
         <ul class="main-nav clearfix">
           <liv>
