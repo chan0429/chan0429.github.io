@@ -9,14 +9,14 @@ i.fas {
 	color: green;
 }
 header {
-	background: #A0E03A;
+	background: #7CC756;
 }
 logo. {
 	float: left;
 	width: 100px;
 	padding: 15px;
 	box-sizing: border-box;
-	background: #BBDEFB;
+	background: #6DCFF6;
 }
 .desktop-nav {
 	 float: right;
@@ -31,7 +31,7 @@ logo. {
 	box-sizing: border-box;
 	width: 33%;
 	float: left;
-	background: #A0E03A;
+	background: #7CC756;
 }
 .main-nav a {
 	display: block;
