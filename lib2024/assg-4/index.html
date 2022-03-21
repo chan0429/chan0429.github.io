@@ -10,7 +10,19 @@
       background: green;
       padding: 50 px;
     }
-    div.container {
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    .clearfix {
+        overflow: auto;
+    }
+    .cleafix:after{
+      content: "";
+      clear: both;
+      display: table;
+    }
+    div.first-container {
       background: green;
     }
     .box {
