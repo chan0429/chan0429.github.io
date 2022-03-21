@@ -22,4 +22,19 @@ logo. {
 	 float: right;
 	 width: calc(100%-100px);
 	 display: none;
+	 max-width: 600px;
+}
+.desktop-nav ul {
+	width: 100%;
+}
+.desktop-nav li {
+	box-sizing: border-box;
+	width: 33%;
+	float: left;
+	background: #A0E03A;
+}
+.main-nav a {
+	display: block;
+	width: 100%;
+	padding: 10px;
 }
