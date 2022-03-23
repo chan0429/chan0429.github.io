@@ -56,3 +56,7 @@ img{
 	display: table;
 	clear: both;
 }
+.logo {
+	width: 90;
+	position: left;
+}
