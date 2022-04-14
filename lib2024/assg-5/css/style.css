@@ -56,3 +56,8 @@ img{
 	display: table;
 	clear: both;
 }
+<style>
+body {
+	background-image: url(moroccan-flower.png);
+}
+</style>
