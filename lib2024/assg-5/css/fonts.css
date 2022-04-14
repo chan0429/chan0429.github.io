@@ -3,3 +3,15 @@
 @import url('https://fonts.googleleapis.com/css?family=Merriweather');
 @import url('https://fonts.googleleapis.com/css2?family=Oswald:wght@300&display=swap');
 @import url('.../fonts/open_sans/stylesheet.css')
+@import url('.../fonts/advent-pro.stylesheet.css');
+
+@font-face {
+	font-family: 'advent_proregular';
+	src: url('AdventPro-Regular-webfont.eot');
+	src: url('AdventPro-Regular.eot?iefix') format('eot'),
+		 url('AdventPro-Regular.woff') format('woff)',
+		 url('AdventPro-Regular.ttf') format('truetype'),
+		 url('AdventPro-Regular.svg#webfont') format ('svg');
+	font-weight: normal;
+	font-weight: normal;
+}
